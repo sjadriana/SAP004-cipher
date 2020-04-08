@@ -7,7 +7,20 @@
   </head>
   <body>
     <div id="root">
-      <h1>Hello world!</h1>
+          <header> <h1>Hello world!</h1></header>
+      <section>
+        <div class="container" id="cxprincipal">
+         <div id="torigem"><textarea name="txtorigem" id="origem" cols="30" rows="10" placeholder="Insira seu texto aqui" required> 
+         </textarea> </div>
+          <div id="buttons">
+           <input type="number" id="offset" placeholder=" digite a senha"> <br>
+           <input type="button" value="Cifrar" id="btn1"> 
+           <input type="button" value="Decifrar" id="btn2"> <br>
+          </div> <br>
+          <textarea name="tdestino" id="destino" cols="30" rows="10" readonly placeholder="Resultado"></textarea>
+        </div>
+      </section>
+    
     </div>
     <script src="index.js" type="module"></script>
   </body>

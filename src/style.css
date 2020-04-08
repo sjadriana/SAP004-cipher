@@ -1,0 +1,60 @@
+body{
+/*background-color: rgba(255, 255, 255, 0.342)*/
+background-image: url(https://i.pinimg.com/originals/df/21/af/df21af6a4011f5fc9f42243c688c53a5.jpg);
+font: normal;
+
+
+}
+header{
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.151);
+    width: 500px;
+    margin: auto;
+
+}
+section{
+    background-color: rgba(238, 130, 238, 0.301) ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 900px;
+    margin: auto;
+    box-shadow: 8px 8px 13px rgba(0, 0, 0, 0.404);
+    border: 3px black;
+}
+#torigem, #origem{
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    font: 25px georgia;
+    background-color: rgba(255, 255, 255, 0.712);
+    text-align: center;
+    
+
+}
+#buttons{
+    margin-top: -200px;
+    margin-left: 70px;
+    
+    
+}
+#destino{
+    display: block;
+    margin: auto;
+    margin-top: 150px;
+    width: 300px;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 0.712);
+    font: 22px georgia;
+    text-align: center;
+    
+}
+#offset{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+#btn1, #btn2{
+    width: 70px;
+    height: 30px;
+}
