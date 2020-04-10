@@ -4,8 +4,8 @@
 
 * [1. Sobre a Cifra de César](#1-Cifra-de-César)
 * [2. Alvo](#2-Alvo)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-* [4. Considerações gerais](#4-considerações-gerais)
+* [3. Processo de decisões](#3-Processo-de-decisões)
+
 
 ***
 
