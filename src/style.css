@@ -28,6 +28,7 @@ section{
     font: 25px georgia;
     background-color: rgba(255, 255, 255, 0.712);
     text-align: center;
+    border-radius: 10px;
     
 
 }
@@ -46,6 +47,7 @@ section{
     background-color: rgba(255, 255, 255, 0.712);
     font: 22px georgia;
     text-align: center;
+    border-radius: 10px;
     
 }
 #offset{
@@ -53,8 +55,10 @@ section{
     height: 30px;
     margin-bottom: 10px;
     margin-left: 50px;
+    border-radius: 10px;
 }
 #btn1, #btn2{
     width: 70px;
     height: 30px;
+    border-radius: 10px;
 }
