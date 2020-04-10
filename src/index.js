@@ -1,5 +1,5 @@
 import cipher from './cipher.js';
-alert('Escreva sua mensagem e escolha a opção desejada');
+//alert('Escreva sua mensagem e escolha a opção desejada');
 
 var botaoC = document.getElementById("btn1")
 botaoC.addEventListener("click", function(event){
@@ -31,7 +31,6 @@ botaoD.addEventListener("click", function(event){
   
 
 });
-
 
 
 console.log(cipher);

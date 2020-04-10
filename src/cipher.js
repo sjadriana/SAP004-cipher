@@ -24,8 +24,8 @@ const cipher = {
       let cifra=((mensagem[i].charCodeAt() + 65 - Number(senha)) % 26) + 65;
       resultado = resultado + String.fromCharCode(cifra);
     }  
-    //var parsed = resultado.normalize('NFD').replace(/([\u0300-\u036f]|[^a-zA-Z])/g, ' ');
-    return resultado;
+    var parsed = resultado.normalize('NFD').replace(/([\u0300-\u036f]|[^a-zA-Z])/g, ' ');
+    return parsed;
     
   },  
 };
