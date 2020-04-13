@@ -1,5 +1,4 @@
 body{
-/*background-color: rgba(255, 255, 255, 0.342)*/
 background-image: url(https://i.pinimg.com/originals/df/21/af/df21af6a4011f5fc9f42243c688c53a5.jpg);
 font: normal;
 
@@ -7,9 +6,11 @@ font: normal;
 }
 header{
     text-align: center;
-    background-color:rgba(255, 255, 255, 0.151);
+    background-color:rgba(255, 255, 255, 0.384);
     width: 500px;
     margin: auto;
+    font: purple;
+    margin-bottom: -10px;
 
 }
 section{
@@ -23,7 +24,7 @@ section{
 }
 #torigem, #origem{
     width: 450px;
-    height: 250px;
+    height: 200px;
     margin: auto;
     font: 25px georgia;
     background-color: rgba(255, 255, 255, 0.712);
@@ -41,9 +42,9 @@ section{
 #destino{
     display: block;
     margin: auto;
-    margin-top: 150px;
+    margin-top: 130px;
     width: 300px;
-    height: 200px;
+    height: 150px;
     background-color: rgba(255, 255, 255, 0.712);
     font: 22px georgia;
     text-align: center;
@@ -54,7 +55,7 @@ section{
     width: 100px;
     height: 30px;
     margin-bottom: 10px;
-    margin-left: 50px;
+    margin-left: 40px;
     border-radius: 10px;
 }
 #btn1, #btn2{
@@ -62,3 +63,4 @@ section{
     height: 30px;
     border-radius: 10px;
 }
+
